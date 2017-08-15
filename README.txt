@@ -1,0 +1,93 @@
+This will be a pack of parts that will be basically adapters between sizes. Each part will go from Size N to size N+1 unless I make some double story units. Each unit will be 1.426m tall, so they match the slope of the Mark 1-2 pod (the bigger stock pod).
+
+Each unit will eventually come in several varieties, crew quarters, Science lab, various tanks, including a service module with a variety of tankage plus built in RCS. I also intend a cargo variant for each size (most likely type to get double story editions).
+
+Once I progress past a 3.75m base, I'll be adding heat shields as I go as well. The main idea being that this can be used to create arbitrarily large pods by stacking truncated cones. As such, I am very much aiming at Stock look and feel (aka stock-a-like).
+
+This first release has the crew quarters and science lab with mostly complete outsides, and rough sketchy (and so far identical) insides. Plus a very quick run at monoprop and dual fuel tanks, all for the 2.5m to 3.75m size. There's no real point in working from the largest size up. :-)
+
+
+Final size plan;
+
+Size 2 to Size 3
+from 2.5m to 3.75m
+
+Size 3 to Size 4
+from 3.75m to 5m
+
+Size 4 to Size 5
+from 5m to 6.25m
+
+Size 5 to Size 6
+from 6.25m to 7.5m
+
+Size 6 to Size 7
+from 7.5m to 8.75m
+
+Size 7 to Size 8
+from 8.75m to 10m
+
+Size 8 to Size 9
+from 10m to 11.25m
+
+Size 9 to Size 10
+from 11.25m to 12.5m
+
+Size 10 to Size 11
+from 12.5m to 13.75m
+
+Size 11 to Size 12
+from 13.75m to 15m
+
+Size 12 to Size 13
+from 15m to 16.25m
+
+Size 13 to Size 14
+from 16.25m to 17.5m
+
+Size 14 to Size 15
+from 17.5m to 18.75m
+
+Size 15 to Size 16
+from 18.75m to 20m
+
+Each size should eventually get the following parts
+
+Service Module
+A combined fuel tank, battery pack, RCS, antenna unit
+
+MonoPropellantTank
+A fuel tank for monopropellant
+
+BiPropellantTank
+A fuel tank for liquid fuel and oxidizer
+
+Crew Quarters and Control
+A control pod with some extra seating
+
+ScienceLab
+A science lab with experiments and a science bay
+
+Cargo
+Stores things behind doors
+
+HeatShield
+Protects things from re-entry heat
+
+Battery
+- might not do this. If I do, I might modify the plan to just do a short cylindrical battery like the stock inline batteries for each size beyond stock -
+
+Reactor
+A reactor for electrical power
+
+XenonTank
+A fuel tank for Xenon gas
+
+OreTank
+A tank for storing crushed ore
+
+SimpleAdapter
+Hollow structural component for bridging part sizes
+
+ShieldAeroSpike
+Aerospike style engine using a heat shield as it's truncated spike
