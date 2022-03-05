@@ -1,0 +1,304 @@
+-----
+Folder infos : 
+MBM files count : 0
+TGA files count : 45
+PNG files count : 0
+Backup files count : 0
+-----
+-----
+Starting conversion of 45 files.
+    MBM count : 0.
+    TGA count : 45.
+    PNG count : 0.
+0 files excluded, 0 files without mipmaps. 0 files will skip normal detection.0 files will not be resized.
+-----
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Rengine\BackgroundWhite.tga to D:\Users\jbb\github\ModPods\Parts\Rengine\BackgroundWhite.dds
+    Format : Dxt5, normalmap : True, res: 1024x768
+Flipping image...
+FlipImage took 12.9284000396729ms
+SwizzleImage took 52.7349014282227ms
+Image conversion took 186.488006591797ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodEngFairing.tga to D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodEngFairing.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.878099977970123ms
+Image conversion took 46.0960006713867ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodEngFairingNMRL.tga to D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodEngFairingNMRL.dds
+    Format : Dxt5, normalmap : True, res: 256x256
+Flipping image...
+FlipImage took 0.736899971961975ms
+SwizzleImage took 0.848999977111816ms
+Image conversion took 29.5762996673584ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodRombusEng.tga to D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodRombusEng.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 8.02359962463379ms
+Image conversion took 313.207702636719ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodRombusEngNRML.tga to D:\Users\jbb\github\ModPods\Parts\Rengine\ModPodRombusEngNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 8.25559997558594ms
+SwizzleImage took 15.492600440979ms
+Image conversion took 90.8926010131836ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk3to4\Service\ModPodmk3to4ServMod.tga to D:\Users\jbb\github\ModPods\Parts\Mk3to4\Service\ModPodmk3to4ServMod.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 8.45820045471191ms
+Image conversion took 324.799102783203ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk3to4\Service\ModPodmk3to4ServModNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk3to4\Service\ModPodmk3to4ServModNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 8.05109977722168ms
+SwizzleImage took 12.8535995483398ms
+Image conversion took 91.3477020263672ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk3to4\ScienceLab\ModPodAntenna.tga to D:\Users\jbb\github\ModPods\Parts\Mk3to4\ScienceLab\ModPodAntenna.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.782000005245209ms
+Image conversion took 82.0955963134766ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk3to4\ScienceLab\ModPodSz3-4Science.tga to D:\Users\jbb\github\ModPods\Parts\Mk3to4\ScienceLab\ModPodSz3-4Science.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 6.69990015029907ms
+Image conversion took 323.733093261719ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk3to4\ScienceLab\ModPodSz3-4Science_NRM.tga to D:\Users\jbb\github\ModPods\Parts\Mk3to4\ScienceLab\ModPodSz3-4Science_NRM.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 8.82450008392334ms
+SwizzleImage took 12.3423004150391ms
+Image conversion took 72.2407989501953ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk3to4\DFuel\ModPodSz3to4Fuel.tga to D:\Users\jbb\github\ModPods\Parts\Mk3to4\DFuel\ModPodSz3to4Fuel.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 6.46470022201538ms
+Image conversion took 314.248809814453ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk3to4\DFuel\ModPodSz3to4FuelNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk3to4\DFuel\ModPodSz3to4FuelNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 7.50820016860962ms
+SwizzleImage took 11.8758001327515ms
+Image conversion took 97.2929992675781ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ModPodAntenna.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ModPodAntenna.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.788399994373322ms
+Image conversion took 45.3325996398926ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ModPodmk2to3ServMod.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ModPodmk2to3ServMod.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 6.13110017776489ms
+Image conversion took 322.012084960938ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ModPodmk2to3ServModNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ModPodmk2to3ServModNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 8.53310012817383ms
+SwizzleImage took 12.131199836731ms
+Image conversion took 69.7734985351563ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ServMFairing.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Service\ServMFairing.dds
+    Format : Dxt5, normalmap : False, res: 512x512
+Flipping image...
+FlipImage took 1.92410004138947ms
+Image conversion took 101.427200317383ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodAntenna.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodAntenna.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.784300029277802ms
+Image conversion took 50.8641014099121ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScience.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScience.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 7.46439981460571ms
+Image conversion took 298.383209228516ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceDoor.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceDoor.dds
+    Format : Dxt5, normalmap : False, res: 512x512
+Flipping image...
+FlipImage took 2.05469989776611ms
+Image conversion took 101.354499816895ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceDoorEmiss.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceDoorEmiss.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 1.05009996891022ms
+Image conversion took 48.5568008422852ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceDoorNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceDoorNRML.dds
+    Format : Dxt5, normalmap : True, res: 512x512
+Flipping image...
+FlipImage took 1.81239998340607ms
+SwizzleImage took 3.76979994773865ms
+Image conversion took 45.3694000244141ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ModPodScienceNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 6.44649982452393ms
+SwizzleImage took 12.5153999328613ms
+Image conversion took 83.4731979370117ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ScienceFairing.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\ScienceLab\ScienceFairing.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.88730001449585ms
+Image conversion took 69.5260009765625ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Mono\ModPodMk2to3Mono.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Mono\ModPodMk2to3Mono.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 6.69869995117188ms
+Image conversion took 319.943603515625ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Mono\ModPodMk2to3MonoNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Mono\ModPodMk2to3MonoNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 7.52409982681274ms
+SwizzleImage took 12.4849996566772ms
+Image conversion took 68.526496887207ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Fuel\ModPodFuel2to3.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Fuel\ModPodFuel2to3.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 13.2926998138428ms
+Image conversion took 335.734588623047ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Fuel\ModPodFuel2to3NRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Fuel\ModPodFuel2to3NRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 10.2159004211426ms
+SwizzleImage took 12.9148998260498ms
+Image conversion took 85.6324005126953ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngCone.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngCone.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 6.34870004653931ms
+Image conversion took 305.458892822266ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngConeNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngConeNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 8.76410007476807ms
+SwizzleImage took 12.5799999237061ms
+Image conversion took 75.5753021240234ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngFairing.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngFairing.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 1.47699999809265ms
+Image conversion took 77.1856002807617ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngFairingNMRL.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Engine\ModPodEngFairingNMRL.dds
+    Format : Dxt5, normalmap : True, res: 256x256
+Flipping image...
+FlipImage took 0.780900001525879ms
+SwizzleImage took 0.917699992656708ms
+Image conversion took 31.9169006347656ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPod2to3_crew.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPod2to3_crew.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 6.68480014801025ms
+Image conversion took 323.518890380859ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPod2to3_crewNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPod2to3_crewNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 7.72189998626709ms
+SwizzleImage took 12.0881996154785ms
+Image conversion took 71.4524002075195ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPodAntenna.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPodAntenna.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 1.08539998531342ms
+Image conversion took 73.2587966918945ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPodMk2-3Windows.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPodMk2-3Windows.dds
+    Format : Dxt5, normalmap : False, res: 128x128
+Flipping image...
+FlipImage took 0.57039999961853ms
+Image conversion took 41.9005012512207ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPodMk2-3WindowsEM.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\ModPodMk2-3WindowsEM.dds
+    Format : Dxt5, normalmap : False, res: 128x128
+Flipping image...
+FlipImage took 0.41499999165535ms
+Image conversion took 59.6593017578125ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\PlainFairing.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Crewed\PlainFairing.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.795000016689301ms
+Image conversion took 48.6007995605469ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargo.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargo.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 7.20300006866455ms
+Image conversion took 292.018707275391ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargoDoor.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargoDoor.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+Flipping image...
+FlipImage took 9.40520000457764ms
+Image conversion took 365.135711669922ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargoDoorNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargoDoorNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 8.33059978485107ms
+SwizzleImage took 13.3360996246338ms
+Image conversion took 65.9527969360352ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargoNRML.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\ModPodCargoNRML.dds
+    Format : Dxt5, normalmap : True, res: 1024x1024
+Flipping image...
+FlipImage took 6.76210021972656ms
+SwizzleImage took 16.1867008209229ms
+Image conversion took 87.4561004638672ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\PlainFairing.tga to D:\Users\jbb\github\ModPods\Parts\Mk2to3\Cargo\PlainFairing.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.837999999523163ms
+Image conversion took 46.1991004943848ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Decouplers\Short\decouplerShort.tga to D:\Users\jbb\github\ModPods\Parts\Decouplers\Short\decouplerShort.dds
+    Format : Dxt5, normalmap : False, res: 512x512
+Flipping image...
+FlipImage took 2.23830008506775ms
+Image conversion took 123.011199951172ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Decouplers\Short\decouplerShortNRML.tga to D:\Users\jbb\github\ModPods\Parts\Decouplers\Short\decouplerShortNRML.dds
+    Format : Dxt5, normalmap : True, res: 512x512
+Flipping image...
+FlipImage took 2.22429990768433ms
+SwizzleImage took 4.03709983825684ms
+Image conversion took 86.1119003295898ms
+---
+LOG : Converting D:\Users\jbb\github\ModPods\Parts\Decouplers\Long\decouplerLong.tga to D:\Users\jbb\github\ModPods\Parts\Decouplers\Long\decouplerLong.dds
+    Format : Dxt5, normalmap : False, res: 256x256
+Flipping image...
+FlipImage took 0.86269998550415ms
+Image conversion took 76.2387008666992ms
+---
+-----
+Conversion done! 45 files processed in 10172.48046875ms.
+-----

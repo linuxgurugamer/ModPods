@@ -1,0 +1,9 @@
+ChangeLog
+
+1.0.12
+	Adopted by Linuxgurugamer
+	Updated TDProps with latest
+	Added ReStock.cfg
+	Converted image files to dds
+	Updated some node sizes
+	Updated some descriptions
